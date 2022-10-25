@@ -1,0 +1,19 @@
+**** Hello welcome to the automated bug report generater****
+{color#57d9a3}Steps{color}
+1 Serda Uçar
+2 Delivery Hero
+3 Deneme deneme
+
+{color#de350b}Actual Result{color}
+
+QA Tester
+Otomasyon
+İstanbul'da yasıyor
+serda
+ayşenur
+
+
+{color#00875a}Expected Result{color}
+
+Fırat Üniversitesi 
+Mühendislik Fakültesi mezunu
